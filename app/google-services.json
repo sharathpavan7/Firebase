@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "443500492913",
+    "firebase_url": "https://fir-d0351.firebaseio.com",
+    "project_id": "fir-d0351",
+    "storage_bucket": "fir-d0351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443500492913:android:f6028095345d0c8b",
+        "android_client_info": {
+          "package_name": "com.sharath.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443500492913-8ih7od536b1j92dhv5k61arq51rrm0bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVX_xjNQtZLiZhEGX4qBGWToVQV3eToYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
